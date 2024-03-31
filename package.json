@@ -1,7 +1,21 @@
 {
   "name": "erc404-nftmarketplace-boilerplate",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "erc404 nftmarketplace boilerplate",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blockchain-top/erc404-nftmarketplace-boilerplate.git"
+  },
+  "keywords": [
+    "npm",
+    "package"
+  ],
+  "author": "tangsong0202@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blockchain-top/erc404-nftmarketplace-boilerplate/issues"
+  },
+  "homepage": "https://github.com/blockchain-top/erc404-nftmarketplace-boilerplate#README.md",
   "dependencies": {
     "@openzeppelin/contracts": "^5.0.1",
     "chai": "^4.4.1",
