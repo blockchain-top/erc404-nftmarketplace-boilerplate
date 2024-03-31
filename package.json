@@ -8,7 +8,8 @@
     "dn404": "^0.0.2",
     "dotenv": "^16.4.5",
     "pinia": "^2.1.7",
-    "solady": "^0.0.168"
+    "solady": "^0.0.168",
+    "vue": "^2.6.14"
   },
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^4.0.0",
