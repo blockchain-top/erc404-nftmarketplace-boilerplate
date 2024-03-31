@@ -1,6 +1,6 @@
 {
   "name": "erc404-nftmarketplace-boilerplate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "erc404 nftmarketplace boilerplate",
   "dependencies": {
     "@openzeppelin/contracts": "^5.0.1",
